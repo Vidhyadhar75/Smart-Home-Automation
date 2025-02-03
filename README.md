@@ -4,9 +4,13 @@
 Excited to share my latest project on Smart Home Automation! This system integrates IoT to enhance home efficiency and security.
 
 💡 Tech Stack:
+
 🔹 Frontend: Flutter 📱
+
 🔹 Backend: Node.js 🌐
+
 🔹 Database: MySQL 🗄️
+
 🔹 Protocols: MQTT 📡 / HTTP 🌍 / WebSockets 🔄
 🔹 Hardware: ESP32 🔌
 🔹 OS: FreeRTOS ⚙️
