@@ -38,3 +38,7 @@ Excited to share my latest project on Smart Home Automation! This system integra
 
 
 This project leverages ESP32 with FreeRTOS for efficient multitasking and real-time communication using MQTT/WebSockets for seamless data exchange and remote control.
+
+
+![WhatsApp Image 2025-02-03 at 12 05 50_34424166](https://github.com/user-attachments/assets/566d15c9-4291-4119-9dc9-369f8c809e9e)
+
